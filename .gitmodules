@@ -1,0 +1,9 @@
+[submodule "ServiceRegistry"]
+	path = ServiceRegistry
+	url = https://github.com/namal1230/hospital-management-system-service-registry.git
+[submodule "APIGateway"]
+	path = APIGateway
+	url = https://github.com/namal1230/hospital-management-system-api-gateway.git
+[submodule "ConfigServer"]
+	path = ConfigServer
+	url = https://github.com/namal1230/hospital-management-system-config-server.git
