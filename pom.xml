@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>APIGateway</module>
         <module>ConfigServer</module>
         <module>ServiceRegistry</module>
+        <module>APIGateway</module>
     </modules>
 </project>
