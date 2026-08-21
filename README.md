@@ -1,4 +1,6 @@
 # Hospital Management System Platform
+<img width="695" height="1787" alt="Screenshot 2026-08-21 051347" src="https://github.com/user-attachments/assets/eba67487-ea3e-47aa-9a83-8a3528178b96" />
+<img width="486" height="116" alt="Screenshot 2026-08-21 051507" src="https://github.com/user-attachments/assets/0c41a845-8500-4b9e-b3f8-be990eaf98e8" />
 
 This repository is the parent Maven project for a Hospital Management System platform. It aggregates several microservice modules used in the platform.
 
